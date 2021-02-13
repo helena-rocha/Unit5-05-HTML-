@@ -1,5 +1,5 @@
 let number = 0
-let sentence = 'hello'
+let sentences = 'hello'
 
 document.getElementById('button').addEventListener('click', multiplication)
 
